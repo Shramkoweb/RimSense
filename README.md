@@ -1,5 +1,7 @@
 # RimSense
 
+![RimSense: SteelSeries GG lighting for RimWorld](Mod/About/Preview.png)
+
 > Your SteelSeries RGB gear lights up only when the colony needs you.
 
 A RimWorld 1.6 mod for SteelSeries GG. Alt-tabbed while the game runs at 3× speed? Your mouse, keyboard or headset tells you when to come back — and stays out of the way the rest of the time.
