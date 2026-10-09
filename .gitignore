@@ -1,0 +1,6 @@
+Source/**/bin/
+Source/**/obj/
+Mod/1.6/Assemblies/
+.DS_Store
+.idea/
+.vs/

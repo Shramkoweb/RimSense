@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<RimSense_Danger>Danger: hostiles on a colonist map (red)</RimSense_Danger>
+	<RimSense_DangerDesc>Lights your SteelSeries devices red while hostiles threaten a map where your colonists are.</RimSense_DangerDesc>
+	<RimSense_Flash>Flash when something starts</RimSense_Flash>
+	<RimSense_FlashDesc>Flashes when a new alert begins (red: 10 fast, amber: 3 slow), then stays steady while it lasts. Turn off for steady colors only.</RimSense_FlashDesc>
+	<RimSense_Attention>Attention: a colonist in trouble or a large fire (amber)</RimSense_Attention>
+	<RimSense_AttentionDesc>Amber while a colonist is about to have or is having a major or extreme mental break, is bleeding out, or is giving birth, or while a large fire is burning.</RimSense_AttentionDesc>
+	<RimSense_Status>SteelSeries GG: {0}</RimSense_Status>
+	<RimSense_StatusConnected>connected ({0})</RimSense_StatusConnected>
+	<RimSense_StatusNotFound>not found. Is SteelSeries GG running?</RimSense_StatusNotFound>
+	<RimSense_StatusUnsupported>not available on this operating system</RimSense_StatusUnsupported>
+	<RimSense_ColorsHint>Colors and devices can be changed in GG: Engine → Apps → RimWorld → Configure.</RimSense_ColorsHint>
+</LanguageData>

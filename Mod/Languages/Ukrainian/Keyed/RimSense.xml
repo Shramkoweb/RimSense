@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<RimSense_Danger>Небезпека: вороги на карті з колоністами (червоний)</RimSense_Danger>
+	<RimSense_DangerDesc>Підсвічує пристрої SteelSeries червоним, поки вороги загрожують карті, де є ваші колоністи.</RimSense_DangerDesc>
+	<RimSense_Flash>Мигати, коли щось починається</RimSense_Flash>
+	<RimSense_FlashDesc>Мигає на початку нової тривоги (червоний: 10 швидко, помаранчевий: 3 повільно), а потім світить рівно, поки вона триває. Вимкніть, щоб кольори завжди світили рівно.</RimSense_FlashDesc>
+	<RimSense_Attention>Увага: колоніст у біді або велика пожежа (помаранчевий)</RimSense_Attention>
+	<RimSense_AttentionDesc>Помаранчеве світло, поки колоніст на межі серйозного чи екстремального зриву або вже в ньому, стікає кров’ю чи народжує, або поки горить велика пожежа.</RimSense_AttentionDesc>
+	<RimSense_Status>SteelSeries GG: {0}</RimSense_Status>
+	<RimSense_StatusConnected>підключено ({0})</RimSense_StatusConnected>
+	<RimSense_StatusNotFound>не знайдено. Чи запущено SteelSeries GG?</RimSense_StatusNotFound>
+	<RimSense_StatusUnsupported>недоступно в цій операційній системі</RimSense_StatusUnsupported>
+	<RimSense_ColorsHint>Кольори та пристрої можна змінити в GG: Engine → Apps → RimWorld → Configure.</RimSense_ColorsHint>
+</LanguageData>

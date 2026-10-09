@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<packageId>shramko.rimsense</packageId>
+	<name>RimSense</name>
+	<author>Serhii Shramko</author>
+	<modVersion>1.0.0</modVersion>
+	<url>https://github.com/Shramkoweb/RimSense</url>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<description>SteelSeries GG lighting for RimWorld.
+
+Your SteelSeries RGB gear lights up only when the colony needs you:
+- Red: hostiles on a map with your colonists.
+- Amber: a colonist in trouble (serious mental break, bleeding out, giving birth) or a large fire.
+- Flashing means it just started; steady means it's still going.
+- Otherwise your own lighting is untouched.
+
+Requires SteelSeries GG (Windows or macOS). Colors can be changed in GG: Engine → Apps → RimWorld → Configure.</description>
+</ModMetaData>
