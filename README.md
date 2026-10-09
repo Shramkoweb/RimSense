@@ -6,7 +6,7 @@
 
 A RimWorld 1.6 mod for SteelSeries GG. Alt-tabbed while the game runs at 3× speed? Your mouse, keyboard or headset tells you when to come back — and stays out of the way the rest of the time.
 
-[Project page](https://shramko.dev/rimsense) · Steam Workshop *(coming soon)* · [Report an Issue](https://github.com/Shramkoweb/RimSense/issues)
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3816470761) · [Report an Issue](https://github.com/Shramkoweb/RimSense/issues)
 
 ## How it works
 
@@ -32,7 +32,7 @@ One rule: **color = how serious, flashing = it just started, steady = still goin
 
 ### Steam Workshop
 
-Coming soon.
+[Subscribe on the Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3816470761) — RimWorld downloads and updates it automatically.
 
 ### Manual
 
