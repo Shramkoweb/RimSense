@@ -1,0 +1,41 @@
+name: Bug report
+description: The lights don't do what they should
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you expect the lights to do, and what did they do instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How to reproduce
+      description: For example "Dev mode → Execute raid with points → 35".
+  - type: input
+    id: device
+    attributes:
+      label: SteelSeries device(s)
+      placeholder: Rival 3, Apex Pro TKL
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options: [Windows, macOS]
+    validations:
+      required: true
+  - type: input
+    id: status
+    attributes:
+      label: Status in Options → Mod settings → RimSense
+      placeholder: "SteelSeries GG: connected (127.0.0.1:...)"
+  - type: textarea
+    id: log
+    attributes:
+      label: Player.log
+      description: Lines containing "RimSense" or errors. Windows — `%USERPROFILE%\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Player.log`; macOS — `~/Library/Logs/Ludeon Studios/RimWorld by Ludeon Studios/Player.log`.
+      render: text
