@@ -141,7 +141,7 @@ namespace RimSense
                 return false;
 
             Address = address;
-            bool ok = Post("game_metadata", "{\"game\":\"" + GameId + "\",\"game_display_name\":\"RimWorld\",\"developer\":\"RimSense\"}")
+            bool ok = Post("game_metadata", "{\"game\":\"" + GameId + "\",\"game_display_name\":\"RimWorld\",\"developer\":\"Serhii Shramko\"}")
                 && Post("bind_game_event", BindPayload());
             if (!ok)
             {
